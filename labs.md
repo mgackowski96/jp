@@ -15,7 +15,7 @@
 1. Dymura, Łukasz 22.10
 1. Dziekan, Maciej
 1. Ertmański, Jakub
-1. Gackowski, Maciej https://github.com/mgackowski96
+1. [Gackowski Maciej](https://github.com/mgackowski96/Jezyki-Programowania-)
 1. [Gajda, Klaudia](https://github.com/klaudiaga/srod_prog)
 1. Galicki, Paweł 22.10
 1. Hoffman, Łukasz
